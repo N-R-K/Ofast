@@ -9,3 +9,9 @@ Keep in mind that just because you have Ofast set globally doesn't mean all pack
 Also keep in mind that higher O levels apply *more* optimizations, not nessessarily *better* optimizations. Ofast (or O3) can sometimes worsen performance due to producing larger binary.
 
 Feel free to contribute to the list.
+
+### Misc resources: 
+
+- [GCC 11 Optimization Benchmarks](https://www.phoronix.com/scan.php?page=article&item=amd-5950x-gcc11&num=2)
+- [Gentoo wiki: GCC optimization](https://wiki.gentoo.org/wiki/GCC_optimization)
+- [GentooLTO](https://github.com/InBetweenNames/gentooLTO)
