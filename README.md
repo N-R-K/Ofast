@@ -10,7 +10,7 @@ Also keep in mind that higher O levels apply *more* optimizations, not nessessar
 
 Feel free to contribute to the list.
 
-### Misc resources: 
+### Misc resources:
 
 - [GCC 11 Optimization Benchmarks](https://www.phoronix.com/scan.php?page=article&item=amd-5950x-gcc11&num=2)
 - [Gentoo wiki: GCC optimization](https://wiki.gentoo.org/wiki/GCC_optimization)
