@@ -6,4 +6,6 @@
 
 Keep in mind that just because you have Ofast set globally doesn't mean all packages will use it. Certain packages can silently override your cflags due to [flag filtering](https://wiki.gentoo.org/wiki/GCC_optimization#What_about_redundant_flags.3F)
 
+Also keep in mind that higher O levels apply *more* optimizations, not nessessarily *better* optimizations. Ofast (or O3) can sometimes worsen performance due to producing larger binary.
+
 Feel free to contribute to the list.
