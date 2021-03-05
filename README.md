@@ -10,8 +10,14 @@ Also keep in mind that higher O levels apply *more* optimizations, not necessari
 
 Feel free to contribute to the list.
 
+
+### Benchmarks:
+
+- [GCC 11 Benchmarks At Varying Optimization Levels](https://www.phoronix.com/scan.php?page=article&item=amd-5950x-gcc11&num=2)
+- [GCC Profile Guided Optimization Benchmarks](https://www.phoronix.com/scan.php?page=news_item&px=GCC-PGO-Benchmarks-5950X)
+- [GCC 4.7 Link-Time Optimization](https://www.phoronix.com/scan.php?page=article&item=gcc_471_lto&num=2) *(This is very old, from 2012. Still worth linking.)*
+
 ### Misc resources:
 
-- [GCC 11 Optimization Benchmarks](https://www.phoronix.com/scan.php?page=article&item=amd-5950x-gcc11&num=2)
 - [Gentoo wiki: GCC optimization](https://wiki.gentoo.org/wiki/GCC_optimization)
 - [GentooLTO](https://github.com/InBetweenNames/gentooLTO)
