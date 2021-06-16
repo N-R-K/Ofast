@@ -13,7 +13,8 @@ Feel free to contribute to the list.
 
 ### Benchmarks:
 
-- [GCC 11 Benchmarks At Varying Optimization Levels](https://www.phoronix.com/scan.php?page=article&item=amd-5950x-gcc11&num=2)
+- [GCC 11 Benchmarks At Varying Optimization Levels (Intel 11900K)](https://www.phoronix.com/scan.php?page=article&item=gcc11-rocket-opts&num=2)
+- [GCC 11 Benchmarks At Varying Optimization Levels (Ryzen 5950x)](https://www.phoronix.com/scan.php?page=article&item=amd-5950x-gcc11&num=2)
 - [GCC Profile Guided Optimization Benchmarks](https://www.phoronix.com/scan.php?page=news_item&px=GCC-PGO-Benchmarks-5950X)
 - [GCC 4.7 Link-Time Optimization](https://www.phoronix.com/scan.php?page=article&item=gcc_471_lto&num=2) *(This is very old, from 2012. Still worth linking.)*
 
