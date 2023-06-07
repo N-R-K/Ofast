@@ -21,4 +21,16 @@ Feel free to contribute to the list.
 ### Misc resources:
 
 - [Gentoo wiki: GCC optimization](https://wiki.gentoo.org/wiki/GCC_optimization)
-- [GentooLTO](https://github.com/InBetweenNames/gentooLTO)
+- [GentooLTO][]
+
+
+### Archive notice
+
+Back when I started this list, I hadn't known about the fact that [GentooLTO][]
+repo maintains a list of Ofast workaround as well. Also the amount of packages
+that broke were significantly less than what I was expecting.
+
+As such I'll be archiving this repo. I urge others to report their findings to
+the GentooLTO repo instead.
+
+[GentooLTO]: https://github.com/InBetweenNames/gentooLTO
